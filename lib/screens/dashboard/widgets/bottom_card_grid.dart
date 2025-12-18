@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:task_app/core/constants/asset_images.dart';
-import 'package:task_app/screens/dashboard/dashboard.dart';
 import 'package:task_app/screens/dashboard/widgets/bottom_card.dart';
 
 class BottomCardsGrid extends StatelessWidget {

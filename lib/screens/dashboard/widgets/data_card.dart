@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:task_app/screens/dashboard/dashboard.dart';
 import 'package:task_app/screens/dashboard/widgets/card_data_row.dart';
 import 'package:task_app/screens/dashboard/widgets/card_header.dart';
 
